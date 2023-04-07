@@ -5,7 +5,8 @@ developed using the most advanced facial recognition technology available from d
 Additionally, a straightforward face_recognition command line programme is provided, allowing you to do face recognition on a folder of photographs directly from the command line!!
 
 INPUT>>>CAMERA>>
-!![input](https://user-images.githubusercontent.com/67463977/230589578-3226f659-59bd-4077-9508-16b16b01a7b9.png)
+![BOOSTING YOUR IMMUNE](https://user-images.githubusercontent.com/67463977/230596753-ae25b1c1-72de-4425-b87b-df8a0c14ff83.jpg)
+
 
 
 OUTPUT>>
